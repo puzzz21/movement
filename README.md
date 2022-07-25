@@ -1,1 +1,1 @@
-JSON files for access from somewhere faraway from internet
+file for access from somewhere faraway from internet
